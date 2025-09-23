@@ -37,8 +37,15 @@
 ---
 
 ## 🎨 Design Tools  
-<p align="left">  
-  <img src="https://skillicons.dev/icons?i=figma,canva" />  
+<!-- Tasarım Araçları Logoları -->
+<p align="left">
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.canva.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Canva_Logo.png" alt="Canva" width="50" height="50"/>
+  </a>
 </p>
 
 ---
