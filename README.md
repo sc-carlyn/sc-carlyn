@@ -44,9 +44,8 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.canva.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Canva_Logo.png" alt="Canva" width="50" height="50"/>
-</a>
-
+    <img src="https://seeklogo.com/images/C/canva-logo-2F1827B6BB-seeklogo.com.png" alt="Canva" width="50" height="50"/>
+  </a>
 </p>
 
 ---
