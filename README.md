@@ -18,7 +18,7 @@
 
 ## 💻 Languages & Frameworks  
 <p align="left">  
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,tailwind,react,nextjs,reactnative" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,tailwind,nextjs,reactnative" />
 </p>
 
 ---
