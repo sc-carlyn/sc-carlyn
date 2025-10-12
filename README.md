@@ -32,7 +32,7 @@
 
 ## 🛠️ IDEs I Use  
 <p align="left">  
-  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm" />  
+  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,androidstudio" />  
 </p>
 
 ---
