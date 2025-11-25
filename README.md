@@ -51,6 +51,5 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api/github-stats/?username=sc-carlyn&layout=compact&&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sc-carlyn&layout=compact&theme=tokyonight)  
