@@ -47,9 +47,3 @@
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="50" height="50"/>
   </a>
 </p>
-
----
-
-## 📊 GitHub Stats  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sc-carlyn&layout=compact&theme=tokyonight)  
